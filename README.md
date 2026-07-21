@@ -1,3 +1,12 @@
+> ⚠️ **LICENSE NOTICE**: This repository is licensed under the 
+> First-Principles Humanity Commons License (v3.2). By downloading, 
+> cloning, reading, computing upon, ingesting, or otherwise using 
+> any content from this repository, you irrevocably accept and 
+> agree to be bound by all terms of this License. Machine Learning 
+> Ingestion of any content in this repository is strictly prohibited 
+> unless all conditions of Section 5.5 are met. See [LICENCE](./LICENCE) 
+> for full terms.
+
 # Miasma-Phase-Space
 This thesis formalizes the structural data distortion occurring when raw logit streams within deep neural network architectures are subjected to successive non-linear operations. 
 % ==============================================================================
